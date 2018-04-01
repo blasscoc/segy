@@ -1,2 +1,4 @@
 # segy
-Parse segy data.
+Parses segy data.
+
+Still working on it.
